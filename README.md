@@ -1,11 +1,11 @@
 Para rodar o projeto baixando ele você precisa:
 
-##Instalar todas as dependencias indicada pelo package.json
+## Instalar todas as dependencias indicada pelo package.json
 
 ### npm i
 
 Para criar o projeto:
-##Criar o arquivo package
+## Criar o arquivo package
 
 ### npm init
 
